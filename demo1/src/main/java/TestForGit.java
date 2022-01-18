@@ -1,0 +1,10 @@
+/**
+ * @author MJ
+ * @description: wd
+ * @date 2022/1/18 21:57
+ */
+public class TestForGit {
+    public static void main(String[] args) {
+        System.out.println("hello git");
+    }
+}
