@@ -10,5 +10,6 @@ public class TestForGit {
         System.out.println("merge master");
         System.out.println("hot-fix");
         System.out.println("merge-hot-fix test");
+        System.out.println("push test");
     }
 }
