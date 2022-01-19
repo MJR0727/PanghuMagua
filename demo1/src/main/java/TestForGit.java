@@ -12,5 +12,6 @@ public class TestForGit {
         System.out.println("merge-hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("github更新...");
     }
 }
